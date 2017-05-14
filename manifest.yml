@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: line-bot1
-  host: mybluemix.net
+  host: line-bot1
   disk_quota: 1024M
